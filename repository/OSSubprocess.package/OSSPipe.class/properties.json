@@ -1,0 +1,16 @@
+{
+	"category" : "OSSubprocess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fileDescriptors",
+		"readStream",
+		"writeStream" ],
+	"name" : "OSSPipe",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

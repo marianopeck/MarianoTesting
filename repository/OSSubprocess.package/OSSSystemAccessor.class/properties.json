@@ -1,0 +1,14 @@
+{
+	"category" : "OSSubprocess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSSSystemAccessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

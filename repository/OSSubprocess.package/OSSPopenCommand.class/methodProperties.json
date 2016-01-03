@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beRead" : "MarianoMartinezPeck 12/15/2015 16:48",
+		"beWrite" : "MarianoMartinezPeck 12/15/2015 16:48",
+		"closeStreams" : "MarianoMartinezPeck 12/28/2015 13:54",
+		"command" : "MarianoMartinezPeck 12/15/2015 16:47",
+		"command:" : "MarianoMartinezPeck 12/15/2015 16:47",
+		"commandPreparedToBeRun" : "MarianoMartinezPeck 12/18/2015 16:17",
+		"exitStatus" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"getCFile" : "MarianoMartinezPeck 12/23/2015 15:27",
+		"initialize" : "MarianoMartinezPeck 12/18/2015 17:55",
+		"isRead" : "MarianoMartinezPeck 12/18/2015 09:24",
+		"isWrite" : "MarianoMartinezPeck 12/18/2015 09:24",
+		"mode" : "MarianoMartinezPeck 12/15/2015 16:48",
+		"mode:" : "MarianoMartinezPeck 12/15/2015 16:47",
+		"nbLibraryNameOrHandle" : "MarianoMartinezPeck 12/15/2015 16:52",
+		"pipeStream" : "MarianoMartinezPeck 12/18/2015 09:27",
+		"pipeStream:" : "MarianoMartinezPeck 12/18/2015 09:27",
+		"primitivePclose:" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"primitivePopen:mode:" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"redirectSdErrToStdOut" : "MarianoMartinezPeck 12/18/2015 15:56",
+		"redirectSdErrToStdOut:" : "MarianoMartinezPeck 12/18/2015 15:56",
+		"run" : "MarianoMartinezPeck 12/28/2015 13:54",
+		"terminationStatus" : "MarianoMartinezPeck 12/21/2015 13:29",
+		"terminationStatus:" : "MarianoMartinezPeck 12/21/2015 13:29" } }

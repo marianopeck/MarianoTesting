@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBasicCommand" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testBasicCommandReadFromStderr" : "MarianoMartinezPeck 12/24/2015 18:53",
+		"testBasicCommandReadFromStdout" : "MarianoMartinezPeck 12/24/2015 18:18",
+		"testBasicCommandWithArgument" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testGetChildPid" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testGetChildStatusAfterFailingCommand" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testGetChildStatusAfterFinishesSuccess" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testNoneExistingCommand" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testWaitpidIsNoneBocking" : "MarianoMartinezPeck 12/23/2015 15:20" } }

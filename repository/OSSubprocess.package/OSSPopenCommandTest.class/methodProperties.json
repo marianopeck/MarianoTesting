@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBasicCommand" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testBasicCommandReadPipe" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testBasicCommandWritePipe" : "MarianoMartinezPeck 1/3/2016 12:54",
+		"testClosingPipeBlockVM" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testReadingOutputPipeBlockVM" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testRedirectSdErrToStdOut" : "MarianoMartinezPeck 12/23/2015 15:20",
+		"testWrongMode" : "MarianoMartinezPeck 12/23/2015 15:20" } }

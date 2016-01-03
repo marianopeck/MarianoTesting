@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"newWith:" : "MarianoMartinezPeck 12/26/2015 16:28" },
+	"instance" : {
+		"closeWriteEnd" : "MarianoMartinezPeck 12/28/2015 14:40",
+		"initializeWith:" : "MarianoMartinezPeck 12/26/2015 16:29",
+		"openReadStreamWithName:" : "MarianoMartinezPeck 12/28/2015 14:41",
+		"readEndFileDescriptor" : "MarianoMartinezPeck 12/26/2015 16:34",
+		"writeEndFileDescriptor" : "MarianoMartinezPeck 12/26/2015 16:34" } }

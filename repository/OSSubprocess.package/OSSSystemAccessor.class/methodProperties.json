@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"current" : "MarianoMartinezPeck 12/28/2015 14:33" },
+	"instance" : {
+		"atEndOfFile:" : "MarianoMartinezPeck 12/28/2015 14:30",
+		"closeFileDescriptor:" : "MarianoMartinezPeck 12/28/2015 14:00",
+		"fflush:" : "MarianoMartinezPeck 12/28/2015 14:26",
+		"fileDescriptorOpen:mode:" : "MarianoMartinezPeck 12/28/2015 14:00",
+		"makePipe" : "MarianoMartinezPeck 12/28/2015 14:00",
+		"nbLibraryNameOrHandle" : "MarianoMartinezPeck 12/28/2015 14:18",
+		"perror:" : "MarianoMartinezPeck 12/28/2015 13:54",
+		"primitiveAtEndOfFile:" : "MarianoMartinezPeck 12/28/2015 14:20",
+		"primitiveClose:" : "MarianoMartinezPeck 12/28/2015 13:49",
+		"primitiveFdopen:mode:" : "MarianoMartinezPeck 12/28/2015 13:44",
+		"primitiveFflush:" : "MarianoMartinezPeck 12/28/2015 14:19",
+		"primitiveFgetsInto:size:file:" : "MarianoMartinezPeck 12/28/2015 14:19",
+		"primitiveGetdtablesize" : "MarianoMartinezPeck 12/28/2015 14:19",
+		"primitivePerror:" : "MarianoMartinezPeck 12/28/2015 13:53",
+		"primitivePipe:" : "MarianoMartinezPeck 12/28/2015 13:51",
+		"primitiveStrerror:" : "MarianoMartinezPeck 12/28/2015 14:01",
+		"primitiveSysconf:" : "MarianoMartinezPeck 12/28/2015 14:19",
+		"primitiveWaitpid:statusPointer:options:" : "MarianoMartinezPeck 12/28/2015 14:08",
+		"strerror:message:" : "MarianoMartinezPeck 12/28/2015 14:03",
+		"waitpidNoHang:" : "MarianoMartinezPeck 12/28/2015 14:15" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "OSSubprocess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"command",
+		"arguments",
+		"pointers",
+		"childPid",
+		"posixSpawnFileActionsT",
+		"stderrPipe",
+		"stdoutPipe" ],
+	"name" : "OSSSpawnProcess",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
